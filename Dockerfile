@@ -14,4 +14,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 
 
-CMD ["python", "botv53.py"]
+CMD ["python", "botv55.py"]
+
