@@ -14,6 +14,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 
 
-CMD ["python", "botv56.py"]
+CMD ["python", "bot_next_gen_10.py"]
+
 
 
